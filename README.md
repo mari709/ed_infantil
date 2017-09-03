@@ -1,6 +1,3 @@
-# Eduludik http://www.eduludik.com
-Sitio web de juegos 
-
 ![gato](https://cdn.pixabay.com/photo/2017/02/01/11/30/animal-2029797_960_720.png)
 
 Este sitio web contiene juegos online y fichas descargables con actividades lúdicas. El componente educativo es el factor común de todas las propuestas de este espacio.
